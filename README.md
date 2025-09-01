@@ -1,9 +1,12 @@
 # ICRogue
 
-ICRogue is the programming project for the first semester 2022 of the first-year Bachelor's degree in Computer Science at EPFL.
-Top‑down, room‑based mini‑roguelike built with Java. Explore a small dungeon, solve each room, find the boss key, and win.
+ICRogue is a compact, top‑down, room‑based roguelike written in Java on top of the EPFL CS107 “Play” framework. Battle through a small dungeon where each room is its own challenge—unlock doors, collect the magic staff and the key, and conquer the boss to clear the level.
 
-![Screenshot](img/game-image.PNG)
+<p align="center">
+   <img src="img/game-image.PNG" alt="ICRogue gameplay screenshot" width="360" />
+</p>
+
+Originally created as part of the 2022 EPFL CS107 programming project.
 
 ## Features
 
